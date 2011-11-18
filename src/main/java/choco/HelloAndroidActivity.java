@@ -1,4 +1,4 @@
-package choco;
+package main.java.choco;
 
 import android.app.Activity;
 import android.os.Bundle;
